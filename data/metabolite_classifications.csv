@@ -1,0 +1,330 @@
+﻿Metabolite,Classification,Chain Length,Saturation,Sphingolipid
+"ceramide (d18:1/17:0, d17:1/18:0)*",Lipid Metabolism,Long,Mixed Saturation,Yes
+N-palmitoyl-heptadecasphingosine (d17:1/16:0)*,Lipid Metabolism,Long,Mixed Saturation,Yes
+N-palmitoyl-sphingadienine (d18:2/16:0)*,Lipid Metabolism,Long,Mixed Saturation,Yes
+lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),Lipid Metabolism,Long,Mixed Saturation,Yes
+stearoyl sphingomyelin (d18:1/18:0),Lipid Metabolism,Long,Mixed Saturation,Yes
+1-palmitoyl-2-oleoyl-GPG (16:0/18:1),Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-oleoyl-GPC (16:0/18:1),Lipid Metabolism,Long,Mixed Saturation,No
+1-stearoyl-2-oleoyl-GPC (18:0/18:1),Lipid Metabolism,Long,Mixed Saturation,No
+lactosyl-N-stearoyl-sphingosine (d18:1/18:0)*,Lipid Metabolism,Long,Mixed Saturation,Yes
+glycosyl-N-stearoyl-sphingosine (d18:1/18:0),Lipid Metabolism,Long,Mixed Saturation,Yes
+1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-linoleoyl-digalactosylglycerol (16:0/18:2)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),Lipid Metabolism,Long,Mixed Saturation,No
+1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),Lipid Metabolism,Long,Mixed Saturation,No
+1-oleoyl-2-linoleoyl-GPC (18:1/18:2)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),Lipid Metabolism,Long,Mixed Saturation,No
+1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6),Lipid Metabolism,Long,Mixed Saturation,No
+LAHSA (18:2/OH-18:0)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,Lipid Metabolism,Long,Mixed Saturation,No
+1-stearoyl-2-oleoyl-GPE (18:0/18:1),Lipid Metabolism,Long,Mixed Saturation,No
+dehydrophytosphingosine*,Lipid Metabolism,Long,Mixed Saturation,Yes
+N-(2-hydroxypalmitoyl)-sphingosine (d18:1/16:0(2OH)),Lipid Metabolism,Long,Mixed Saturation,Yes
+N-palmitoyl-sphingosine (d18:1/16:0),Lipid Metabolism,Long,Mixed Saturation,Yes
+palmitoyl sphingomyelin (d18:1/16:0),Lipid Metabolism,Long,Mixed Saturation,Yes
+N-palmitoyl-sphinganine (d18:0/16:0),Lipid Metabolism,Long,Mixed Saturation,Yes
+"ceramide (d18:1/14:0, d16:1/16:0)*",Lipid Metabolism,Long,Mixed Saturation,Yes
+"sphingomyelin (d18:1/14:0, d16:1/16:0)*",Lipid Metabolism,Long,Mixed Saturation,Yes
+"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",Lipid Metabolism,Long,Mixed Saturation,Yes
+"ceramide (d18:1/20:0, d16:1/22:0, d20:1/18:0)*",Lipid Metabolism,Long,Mixed Saturation,Yes
+"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)",Lipid Metabolism,Long,Mixed Saturation,Yes
+N-stearoyl-sphingosine (d18:1/18:0)*,Lipid Metabolism,Long,Mixed Saturation,Yes
+dihomo-linolenate (20:3n3 or n6),Lipid Metabolism,Long,Mixed Saturation,No
+OAHSA (18:1/OH-18:0),Lipid Metabolism,Long,Mixed Saturation,No
+"ceramide (d18:2/24:1, d18:1/24:2)*",Lipid Metabolism,Long,Mixed Saturation,Yes
+1-oleoyl-GPG (18:1)*,Lipid Metabolism,Long,Monounsaturated,No
+oleoylcarnitine (C18:1),Lipid Metabolism,Long,Monounsaturated,No
+eicosenoate (20:1),Lipid Metabolism,Long,Monounsaturated,No
+oleoyl ethanolamide,Lipid Metabolism,Long,Monounsaturated,No
+palmitoleoylcarnitine (C16:1)*,Lipid Metabolism,Long,Monounsaturated,No
+oleate/vaccenate (18:1),Lipid Metabolism,Long,Monounsaturated,No
+hexadecenedioate (C16:1-DC)*,Lipid Metabolism,Long,Monounsaturated,No
+octadecenedioylcarnitine (C18:1-DC)*,Lipid Metabolism,Long,Monounsaturated,No
+octadecenedioate (C18:1-DC),Lipid Metabolism,Long,Monounsaturated,No
+phytosphingosine,Lipid Metabolism,Long,Monounsaturated,Yes
+hexadecanedioate (C16-DC),Lipid Metabolism,Long,Monounsaturated,No
+1-palmitoyl-GPG (16:0)*,Lipid Metabolism,Long,Monounsaturated,No
+10-nonadecenoate (19:1n9),Lipid Metabolism,Long,Monounsaturated,No
+eicosanoylsphingosine (d20:1)*,Lipid Metabolism,Long,Monounsaturated,Yes
+N-oleoyltaurine,Lipid Metabolism,Long,Monounsaturated,No
+"9,10-DiHOME sulfate",Lipid Metabolism,Long,Polyunsaturated,No
+dihomol-linolenate (20:3n3 or n6),Lipid Metabolism,Long,Polyunsaturated,No
+linoleoylcarnitine (C18:2)*,Lipid Metabolism,Long,Polyunsaturated,No
+linoleoyl-linoleoyl-glycerol (18:2/18:2) [2]*,Lipid Metabolism,Long,Polyunsaturated,No
+"1,2-dilinoleoyl-GPC (18:2/18:2)",Lipid Metabolism,Long,Polyunsaturated,No
+1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*,Lipid Metabolism,Long,Polyunsaturated,No
+linolenoylcarnitine (C18:3)*,Lipid Metabolism,Long,Polyunsaturated,No
+1-linoleoyl-GPG (18:2)*,Lipid Metabolism,Long,Polyunsaturated,No
+arachidonate (20:4n6),Lipid Metabolism,Long,Polyunsaturated,No
+linolenate [alpha or gamma; (18:3n3 or 6)],Lipid Metabolism,Long,Polyunsaturated,No
+linoleate (18:2n6),Lipid Metabolism,Long,Polyunsaturated,No
+dihomolinoleate (20:2n6),Lipid Metabolism,Long,Polyunsaturated,No
+tetradecadienoate (14:2)*,Lipid Metabolism,Long,Polyunsaturated,No
+dihomo-linoleate (20:2n6),Lipid Metabolism,Long,Polyunsaturated,No
+eicosapentaenoate (EPA; 20:5n3),Lipid Metabolism,Long,Polyunsaturated,No
+stearidonate (18:4n3),Lipid Metabolism,Long,Polyunsaturated,No
+1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),Lipid Metabolism,Long,Polyunsaturated,No
+hexadecatrienoate (16:3n3),Lipid Metabolism,Long,Polyunsaturated,No
+hexadecadienoate (16:2n6),Lipid Metabolism,Long,Polyunsaturated,No
+"1,2-dilinoleoyl-digalactosylglycerol (18:2/18:2)*",Lipid Metabolism,Long,Polyunsaturated,No
+heneicosapentaenoate (21:5n3),Lipid Metabolism,Long,Polyunsaturated,No
+palmitoylcarnitine (C16),Lipid Metabolism,Long,Saturated,No
+arachidoylcarnitine (C20)*,Lipid Metabolism,Long,Saturated,No
+stearoyl ethanolamide,Lipid Metabolism,Long,Saturated,No
+palmitoyl ethanolamide,Lipid Metabolism,Long,Saturated,No
+1-palmitoyl-2-stearoyl-GPC (16:0/18:0),Lipid Metabolism,Long,Saturated,No
+"1,2-dipalmitoyl-GPC (16:0/16:0)",Lipid Metabolism,Long,Saturated,No
+stearoylcarnitine (C18),Lipid Metabolism,Long,Saturated,No
+1-stearoyl-GPG (18:0),Lipid Metabolism,Long,Saturated,No
+1-stearoyl-GPC (18:0),Lipid Metabolism,Long,Saturated,No
+2-stearoyl-GPE (18:0)*,Lipid Metabolism,Long,Saturated,No
+N-palmitoyl-phytosphingosine (t18:0/16:0),Lipid Metabolism,Long,Saturated,Yes
+palmitoyl dihydrosphingomyelin (d18:0/16:0)*,Lipid Metabolism,Long,Saturated,Yes
+margaroylcarnitine (C17)*,Lipid Metabolism,Long,Saturated,No
+18-methylnonadecanoate (i20:0),Lipid Metabolism,Long,Saturated,No
+(16 or 17)-methylstearate (a19:0 or i19:0),Lipid Metabolism,Long,Saturated,No
+2-hydroxymyristate,Lipid Metabolism,Long,Saturated,No
+tetradecanedioate (C14-DC),Lipid Metabolism,Long,Saturated,No
+10-hydroxystearate,Lipid Metabolism,Long,Saturated,No
+laurylcarnitine (C12),Lipid Metabolism,Long,Saturated,No
+1-myristoyl-2-palmitoyl-GPC (14:0/16:0),Lipid Metabolism,Long,Saturated,No
+pentadecanoate (15:0),Lipid Metabolism,Long,Saturated,No
+palmitate (16:0),Lipid Metabolism,Long,Saturated,No
+margarate (17:0),Lipid Metabolism,Long,Saturated,No
+1-stearoyl-GPE (18:0),Lipid Metabolism,Long,Saturated,No
+myristoylcarnitine (C14),Lipid Metabolism,Long,Saturated,No
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,Lipid Metabolism,Long,Saturated,Yes
+lactobacillic acid,Lipid Metabolism,Long,Saturated,No
+3-hydroxylaurate,Lipid Metabolism,Long,Saturated,No
+laurate (12:0),Lipid Metabolism,Long,Saturated,No
+myristate (14:0),Lipid Metabolism,Long,Saturated,No
+3-ketosphinganine,Lipid Metabolism,Long,Saturated,Yes
+sphinganine,Lipid Metabolism,Long,Saturated,Yes
+N-stearoyl-sphinganine (d18:0/18:0)*,Lipid Metabolism,Long,Saturated,Yes
+stearate (18:0),Lipid Metabolism,Long,Saturated,No
+phytanate,Lipid Metabolism,Long,Saturated,No
+pristanate,Lipid Metabolism,Long,Saturated,No
+"sphingomyelin (d18:0/18:0, d19:0/17:0)*",Lipid Metabolism,Long,Saturated,Yes
+palmitoylcholine,Lipid Metabolism,Long,Saturated,No
+lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,Lipid Metabolism,Very Long,Monounsaturated,Yes
+"sphingomyelin (d18:0/20:0, d16:0/22:0)*",Lipid Metabolism,Very Long,Saturated,Yes
+behenoyl dihydrosphingomyelin (d18:0/22:0)*,Lipid Metabolism,Very Long,Saturated,Yes
+cis-4-decenoylcarnitine (C10:1),Lipid Metabolism,Medium,Monounsaturated,No
+heptenedioate (C7:1-DC)*,Lipid Metabolism,Medium,Monounsaturated,No
+decadienedioic acid (C10:2-DC)**,Lipid Metabolism,Medium,Polyunsaturated,No
+"cis-3,4-methyleneheptanoylglycine",Lipid Metabolism,Medium,Saturated,No
+2-hydroxydecanoate,Lipid Metabolism,Medium,Saturated,No
+undecanedioate (C11-DC),Lipid Metabolism,Medium,Saturated,No
+3-hydroxysebacate,Lipid Metabolism,Medium,Saturated,No
+3-hydroxydodecanedioate*,Lipid Metabolism,Medium,Saturated,No
+azelate (C9-DC),Lipid Metabolism,Medium,Saturated,No
+suberate (C8-DC),Lipid Metabolism,Medium,Saturated,No
+3-hydroxysuberate,Lipid Metabolism,Medium,Saturated,No
+3-methyladipate,Lipid Metabolism,Medium,Saturated,No
+decanoylcarnitine (C10),Lipid Metabolism,Medium,Saturated,No
+dodecanedioate (C12-DC),Lipid Metabolism,Medium,Saturated,No
+"trans-3,4-methyleneheptanoylglycine",Lipid Metabolism,Medium,Saturated,No
+caprate (10:0),Lipid Metabolism,Medium,Saturated,No
+8-hydroxyoctanoate,Lipid Metabolism,Medium,Saturated,No
+pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC),Lipid Metabolism,Medium,Saturated,No
+3-methylglutarate/2-methylglutarate,Lipid Metabolism,Short,Saturated,No
+succinylcarnitine (C4-DC),Lipid Metabolism,Short,Saturated,No
+acetylcarnitine (C2),Lipid Metabolism,Short,Saturated,No
+3-hydroxybutyrate (BHBA),Lipid Metabolism,Short,Saturated,No
+malonylcarnitine,Lipid Metabolism,Short,Saturated,No
+"sphingomyelin (d18:2/24:1, d18:1/24:2)*",Lipid Metabolism,Very Long,Mixed Saturation,Yes
+"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",Lipid Metabolism,Very Long,Mixed Saturation,Yes
+"sphingomyelin (d18:1/20:0, d16:1/22:0)*",Lipid Metabolism,Very Long,Mixed Saturation,Yes
+"sphingomyelin (d18:1/24:1, d18:2/24:0)*",Lipid Metabolism,Very Long,Mixed Saturation,Yes
+1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),Lipid Metabolism,Very Long,Mixed Saturation,No
+1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*,Lipid Metabolism,Very Long,Mixed Saturation,No
+tricosanoyl sphingomyelin (d18:1/23:0)*,Lipid Metabolism,Very Long,Mixed Saturation,Yes
+lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*,Lipid Metabolism,Very Long,Mixed Saturation,Yes
+lignoceroyl sphingomyelin (d18:1/24:0),Lipid Metabolism,Very Long,Mixed Saturation,Yes
+erucate (22:1n9),Lipid Metabolism,Very Long,Monounsaturated,No
+2-hydroxynervonate*,Lipid Metabolism,Very Long,Monounsaturated,Yes
+docosadienoate (22:2n6),Lipid Metabolism,Very Long,Polyunsaturated,No
+docosapentaenoate (n3 DPA; 22:5n3),Lipid Metabolism,Very Long,Polyunsaturated,No
+docosahexaenoate (DHA; 22:6n3),Lipid Metabolism,Very Long,Polyunsaturated,No
+2-hydroxylignocerate*,Lipid Metabolism,Very Long,Saturated,No
+lignoceroyl ethanolamide (24:0)*,Lipid Metabolism,Very Long,Saturated,No
+behenoyl ethanolamide (22:0)*,Lipid Metabolism,Very Long,Saturated,No
+lignoceroylcarnitine (C24)*,Lipid Metabolism,Very Long,Saturated,No
+behenoylcarnitine (C22)*,Lipid Metabolism,Very Long,Saturated,No
+stigmasterol,Steroid Metabolism,,Monounsaturated,No
+3beta-hydroxy-5-cholestenoate,Steroid Metabolism,,Monounsaturated,No
+beta-sitosterol,Steroid Metabolism,,Monounsaturated,No
+campesterol,Steroid Metabolism,,Monounsaturated,No
+stigmastadienone,Steroid Metabolism,,Polyunsaturated,No
+"5alpha-pregnan-3beta,20alpha-diol disulfate",Steroid Metabolism,,Saturated,No
+lanosterol,Steroid Metabolism,,Saturated,No
+cholesterol,Steroid Metabolism,,Saturated,No
+4-cholesten-3-one,Steroid Metabolism,,Saturated,No
+7-ketocholesterol,Steroid Metabolism,,Saturated,No
+3-hydroxy-2-methylpyridine sulfate,Vitamin Metabolism,,,
+nicotinate ribonucleoside,Vitamin Metabolism,,,
+pyridoxine (Vitamin B6),Vitamin Metabolism,,,
+pantothenate,Vitamin Metabolism,,,
+vitamin D3 sulfate,Vitamin Metabolism,,,
+pyridoxate,Vitamin Metabolism,,,
+pterin,Vitamin Metabolism,,,
+biopterin,Vitamin Metabolism,,,
+pantetheine,Vitamin Metabolism,,,
+daidzein,Polyphenol Metabolism,,,
+syringic acid,Polyphenol Metabolism,,,
+enterolactone,Polyphenol Metabolism,,,
+enterodiol,Polyphenol Metabolism,,,
+dihydroferulate,Polyphenol Metabolism,,,
+4-hydroxycinnamate,Polyphenol Metabolism,,,
+ferulate,Polyphenol Metabolism,,,
+vanillate,Polyphenol Metabolism,,,
+ferulylglycine (2),Polyphenol Metabolism,,,
+ferulylglycine (1),Polyphenol Metabolism,,,
+dihydrocaffeate sulfate (2),Polyphenol Metabolism,,,
+diacetylspermidine*,Polyamine Metabolism,,,
+pheophytin A,Plant Metabolism,,,
+carotene diol (1),Plant Metabolism,,,
+carotene diol (2),Plant Metabolism,,,
+adenosine 5'-monophosphate (AMP),Nucleotide Metabolism,,,
+adenosine,Nucleotide Metabolism,,,
+8-hydroxyguanine,Nucleotide Metabolism,,,
+3-(3-amino-3-carboxypropyl)uridine*,Nucleotide Metabolism,,,
+"guanosine-2',3'-cyclic monophosphate",Nucleotide Metabolism,,,
+histamine,Neurotransmitter Metabolism,,,
+acetylcholine,Neurotransmitter Metabolism,,,
+N-acetylhistamine,Neurotransmitter Metabolism,,,
+carboxyethyl-GABA,Neurotransmitter Metabolism,,,
+L-urobilin,Heme Metabolism,,,
+protoporphyrin IX,Heme Metabolism,,,
+"bilirubin (E,E)*",Heme Metabolism,,,
+biliverdin,Heme Metabolism,,,
+"bilirubin degradation product, C17H18N2O4 (3)**",Heme Metabolism,,,
+hydroquinone sulfate,Detoxification Metabolism,,,
+4-ethylphenylsulfate,Detoxification Metabolism,,,
+"2,8-quinolinediol sulfate",Detoxification Metabolism,,,
+fumarate,Carbohydrate Metabolism,,,
+maltose,Carbohydrate Metabolism,,,
+"2,4-dihydroxybutyrate",Carbohydrate Metabolism,,,
+fructose,Carbohydrate Metabolism,,,
+N-acetylmuramate,Carbohydrate Metabolism,,,
+lactobionate,Carbohydrate Metabolism,,,
+lactose,Carbohydrate Metabolism,,,
+fructosyllysine,Carbohydrate Metabolism,,,
+glucose,Carbohydrate Metabolism,,,
+N-acetylglucosaminylasparagine,Carbohydrate Metabolism,,,
+malate,Carbohydrate Metabolism,,,
+N-acetylneuraminate,Carbohydrate Metabolism,,,
+pyrraline,Carbohydrate Metabolism,,,
+quinate,Carbohydrate Metabolism,,,
+diacetylchitobiose,Carbohydrate Metabolism,,,
+glucuronate,Carbohydrate Metabolism,,,
+methylsuccinate,Carbohydrate Metabolism,,,
+citraconate/glutaconate,Carbohydrate Metabolism,,,
+glycolate (hydroxyacetate),Carbohydrate Metabolism,,,
+erythrose,Carbohydrate Metabolism,,,
+sucrose,Carbohydrate Metabolism,,,
+methylphosphate,Carbohydrate Metabolism,,,
+tauroursodeoxycholic acid sulfate (2),Bile Acid Metabolism,,,
+taurocholenate sulfate*,Bile Acid Metabolism,,,
+chenodeoxycholic acid sulfate (1),Bile Acid Metabolism,,,
+deoxycholic acid 3-sulfate,Bile Acid Metabolism,,,
+taurodeoxycholate,Bile Acid Metabolism,,,
+tauroursodeoxycholic acid sulfate (1),Bile Acid Metabolism,,,
+taurodeoxycholic acid 3-sulfate,Bile Acid Metabolism,,,
+ursodeoxycholate sulfate (1),Bile Acid Metabolism,,,
+taurolithocholate 3-sulfate,Bile Acid Metabolism,,,
+tauroursodeoxycholate,Bile Acid Metabolism,,,
+taurochenodeoxycholate,Bile Acid Metabolism,,,
+7-ketodeoxycholate,Bile Acid Metabolism,,,
+taurohyocholate*,Bile Acid Metabolism,,,
+7-ketolithocholate,Bile Acid Metabolism,,,
+lithocholic acid sulfate (2),Bile Acid Metabolism,,,
+taurocholate,Bile Acid Metabolism,,,
+taurohyodeoxycholic acid,Bile Acid Metabolism,,,
+cholate sulfate,Bile Acid Metabolism,,,
+alpha-muricholate,Bile Acid Metabolism,,,
+alpha-tocopherol acetate,Antioxidant Metabolism,,,
+delta-tocopherol,Antioxidant Metabolism,,,
+alpha-tocopherol,Antioxidant Metabolism,,,
+gamma-tocopherol/beta-tocopherol,Antioxidant Metabolism,,,
+gamma-CEHC,Antioxidant Metabolism,,,
+cystine,Amino Acid Metabolism,,,
+ala-ile-ala,Amino Acid Metabolism,,,
+alpha-hydroxyisocaproate,Amino Acid Metabolism,,,
+aspartate,Amino Acid Metabolism,,,
+N-acetyl-cadaverine,Amino Acid Metabolism,,,
+diaminopimelate,Amino Acid Metabolism,,,
+2-hydroxy-3-methylvalerate,Amino Acid Metabolism,,,
+glycine conjugate of C10H14O2 (2)*,Amino Acid Metabolism,,,
+2-isopropylmalate,Amino Acid Metabolism,,,
+val-val-ala,Amino Acid Metabolism,,,
+cysteine s-sulfate,Amino Acid Metabolism,,,
+allo-threonine,Amino Acid Metabolism,,,
+gamma-glutamylalanine,Amino Acid Metabolism,,,
+cysteinylglycine,Amino Acid Metabolism,,,
+5-aminovalerate,Amino Acid Metabolism,,,
+thioproline,Amino Acid Metabolism,,,
+argininosuccinate,Amino Acid Metabolism,,,
+phenylalanylglycine,Amino Acid Metabolism,,,
+2-aminophenol,Amino Acid Metabolism,,,
+cysteine sulfinic acid,Amino Acid Metabolism,,,
+picolinate,Amino Acid Metabolism,,,
+arginine,Amino Acid Metabolism,,,
+indoleacrylate,Amino Acid Metabolism,,,
+cysteine,Amino Acid Metabolism,,,
+creatine,Amino Acid Metabolism,,,
+asparagine,Amino Acid Metabolism,,,
+gamma-glutamyl-epsilon-lysine,Amino Acid Metabolism,,,
+carboxymethylproline,Amino Acid Metabolism,,,
+formiminoglutamate,Amino Acid Metabolism,,,
+ala-leu-ala,Amino Acid Metabolism,,,
+beta-hydroxyisovalerate,Amino Acid Metabolism,,,
+leucylglutamine*,Amino Acid Metabolism,,,
+N-acetyl-3-methylhistidine*,Amino Acid Metabolism,,,
+gamma-glutamylglutamine,Amino Acid Metabolism,,,
+gamma-glutamylisoleucine*,Amino Acid Metabolism,,,
+indolepropionate,Amino Acid Metabolism,,,
+alpha-hydroxyisovalerate,Amino Acid Metabolism,,,
+N-acetylglutamine,Amino Acid Metabolism,,,
+N-acetyl-1-methylhistidine*,Amino Acid Metabolism,,,
+beta-alanine,Amino Acid Metabolism,,,
+phenylalanylalanine,Amino Acid Metabolism,,,
+cis-urocanate,Amino Acid Metabolism,,,
+methionine sulfoxide,Amino Acid Metabolism,,,
+N-acetyl-beta-alanine,Amino Acid Metabolism,,,
+homocysteine,Amino Acid Metabolism,,,
+N-acetyl-isoputreanine,Amino Acid Metabolism,,,
+1-methyl-5-imidazolelactate,Amino Acid Metabolism,,,
+3-methylhistidine,Amino Acid Metabolism,,,
+1-propanoylproline,Amino Acid Metabolism,,,
+succinoyltaurine,Amino Acid Metabolism,,,
+N-acetylcitrulline,Amino Acid Metabolism,,,
+phenylacetyltaurine,Amino Acid Metabolism,,,
+quinolinate,Amino Acid Metabolism,,,
+glycine conjugate of C6H10O2 (3)*,Amino Acid Metabolism,,,
+hexanoyltaurine,Amino Acid Metabolism,,,
+4-methylthio-2-oxobutanoate,Amino Acid Metabolism,,,
+creatine,Amino Acid Metabolism,,,
+4-methylhexanoylglycine,Amino Acid Metabolism,,,
+piperidine,Alkaloid Metabolism,,,
+diglycerol,Lipid Metabolism,,,
+glycerophosphoglycerol,Lipid Metabolism,,,
+arachidonoyl ethanolamide,Neurotransmitter Metabolism,,,
+beta-muricholate,Bile Acid Metabolism,,,
+tauro-beta-muricholate,Bile Acid Metabolism,,,
+alpha-tocotrienol,Vitamin Metabolism,,,
+gamma-tocotrienol,Vitamin Metabolism,,,
+hydroxymethylpyrimidine,Nucleotide Metabolism,,,
+tyrosol,Polyphenol Metabolism,,,
+brilliant blue FCF (blue 1),Detoxification Metabolism,,,
+alpha-CEHC taurine*,Vitamin Metabolism,,,
+25-hydroxycholesterol sulfate,Vitamin Metabolism,,,
+glycine conjugate of C6H10O2 (1)*,Detoxification Metabolism,,,
