@@ -12,6 +12,7 @@ This folder contains the active analysis workflows used for publication outputs 
 - `lipid_analysis.R`: Lipidomics-specific association analysis and output generation.
 - `metabolite_analysis.R`: Core metabolomics association analysis workflow for fecal/serum/lipid features.
 - `serum_metabolite_analysis.R`: Serum-focused metabolite association and summary analysis pipeline.
+- `scRNA-seq_DEG_analysis.R`: Uses single-cell transcriptomics data to call DEGs.
 - `run_all_analyses.R`: Lightweight entry-point runner to execute core analysis scripts in sequence.
 
 ## Consolidated Execution
