@@ -8,7 +8,7 @@ This repository contains consolidated analysis scripts and a publication-focused
 
 ## Quick Links
 
-- **Live Shiny app:** `high-fat-diets-multi-omics` (deployed separately)
+- **Live Shiny app:** https://btierneyshiny.shinyapps.io/high-fat-diets-multi-omics/
 - **Figshare project (full datasets):** [https://figshare.com/projects/_b_Diverse_high-fat_diets_drive_multi-omic_reprogramming_that_persists_after_dietary_reversal_b_/270115](https://figshare.com/projects/_b_Diverse_high-fat_diets_drive_multi-omic_reprogramming_that_persists_after_dietary_reversal_b_/270115)
 - **Figures:** `FIGURES AND TABLES/`
 - **Supplement:** see Figshare project above
@@ -17,24 +17,29 @@ This repository contains consolidated analysis scripts and a publication-focused
 
 ## Manuscript Title
 
-**Diverse high-fat diets drive multi-omic reprogramming that persists after dietary reversal**
+**Diverse high-fat diets drive multi-omic reprogramming that persists after dietary reversal
 
-Andrew G Van Camp, Cem Meydan, Jiwoon Park, Elif Ozcelik, Onur Eskiocak, Kadir Ozler, Katie Papciak, Santhilal Subhash, Hanan Alwaseem, Ilgin Ergin, Charlie Chung, Vyom Shah, Brian Yueh, Miriam Fein, Ceyda Durmaz, Chris Mozsary, Ece Kilic, Aybuke Garipcan, Namita Damle, Deena Najjar, Theodore M. Nelson, Krista A Ryon, Daniel Butler, Chirag J Patel, Christoph A Thaiss, Kivanc Birsoy, Christopher E Mason*, Braden T Tierney*, Semir Beyaz*
+Andrew G Van Camp1, Jiwoon Park2, Elif Ozcelik2, Onur Eskiocak3, Kadir A Ozler4, Katie Papciak5, Santhilal Subhash6, Hanan Alwaseem7, Ilgin Ergin4, Charlie Chung4, Vyom Shah4, Brian Yueh4, Miriam R Fein4, Ceyda Durmaz8, Chris Mozsary8, Ece Kilic4, Aybuke Garipcan4, Namita Damle8, Deena Najjar8, Theodore M Nelson2, Krista A Ryon8, Daniel J Butler8, Chirag J Patel1, Christoph A Thaiss9, Kivanc Birsoy10, Christopher E Mason8, Cem Meydan11*, Braden T Tierney1,12*, Semir Beyaz4*
 
-Rockefeller University, New York, NY, USA  
-Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA  
-Department of Physiology and Biophysics, Weill Cornell Medicine, New York, NY, USA  
-Department of Systems and Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA  
-Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA  
-The Two Frontiers Project, Fort Collins, CO, USA
+1 Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA
+2 Department of Systems and Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA
+3 Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA; Graduate Program in Genetics, Stony Brook University, Stony Brook, NY, USA
+4 Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA
+5 Cell Biology Program, Sloan Kettering Institute, New York, NY, USA
+6 Department of Biosciences and Bioengineering, Indian Institute of Technology Jammu, Jammu, India
+7 Rockefeller University, New York, NY 10065, USA
+8 Department of Physiology and Biophysics and the WorldQuant Initiative for Quantitative Prediction, Weill Cornell Medicine, NY, USA
+9 Department of Pathology, Stanford University, Stanford, CA, USA
+10 Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA
+11 Department of Medicine, Weill Cornell Medicine, New York, NY, USA
+12 The Two Frontiers Project, Fort Collins, CO, USA
 
-\*Corresponding author: chm2042@med.cornell.edu  
-\*Corresponding author: braden@twofrontiers.org  
-\*Corresponding author: beyaz@cshl.edu
-
+*Corresponding author: cem2009@med.cornell.edu 
+*Corresponding author: braden@twofrontiers.org 
+*Corresponding author: beyaz@cshl.edu
 ## Abstract
 
-Dietary fats modulate host physiology and the gut microbiome, but the effect of individual fats and the ability to reverse effects of a high-fat diet by changing to a low-fat diet are unclear. To address the lack of long-term data of the effects of different fats, we present here a multi-omic atlas of mice sampled longitudinally for a year that finds distinct metabolic, transcriptomic, and metagenomic changes for different high fat diets. In addition to mice that were fed the same high-fat diet for the entire study, we also included reversals that were fed a high-fat diet for four or nine months, and then a low-fat control diet for the remainder of the study. While approximately 50% of diet-induced microbial shifts revert to baseline, we identified a "memory" subset of taxa, including the persistent depletion of Lactobacillus johnsonii and Bifidobacterium pseudolongum, and the persistent enrichment of Alistipes finegoldii-that fails to recover even months after dietary cessation. This effect is mirrored in the host, where single-cell RNA sequencing reveals sustained alterations in intestinal MHC-II gene expression. These findings indicate that dietary fats leave a distinct and lasting imprint on the host-microbiome interactome that survives dietary intervention. Overall, this represents an advance in our understanding of the effect of high-fat diets on the host and microbiome.
+Dietary fat composition modulates host physiology and the gut microbiome, but the long-term effects of specific fat sources and the extent to which these changes resolve after dietary reversal remain incompletely defined. Here, we present a longitudinal multi-omic resource of mice maintained for one year on a purified control diet, seven high-fat diets differing in predominant fat source, or reversal regimens in which animals were switched from high-fat to control diet after 4 or 9 months. We further incorporated two cohorts with distinct pre-existing microbiome configurations to determine how baseline community structure shapes diet-induced remodeling of the gut microbiome ecosystem. By integrating longitudinal phenotyping, fecal metagenomics, fecal metabolomics, plasma metabolomics and lipidomics, and intestinal single-cell RNA sequencing, we defined the shared and dietary fat-specific responses across host and microbiome compartments. Baseline microbiome composition strongly influenced microbial responses to diet, indicating that pre-existing community structure is a major determinant of dietary ecosystem remodeling. Although many altered features shifted toward baseline after dietary reversal, only approximately half of diet-associated microbial changes recovered within the study window. A subset of taxa exhibited persistent alterations, including sustained depletion of Lactobacillus johnsonii and Bifidobacterium pseudolongum and sustained enrichment of Alistipes finegoldii, consistent with a “microbiome memory” of prior high-fat diet exposure. This memory effect is mirrored in the host, by sustained suppression of major histocompatibility complex class II (MHC-II) gene expression in intestinal epithelial cells after dietary reversal. These findings indicate that dietary fats leave a lasting imprint on the host-microbiome interactome that survives dietary intervention. Together, these data establish a resource for defining how dietary fat source, baseline microbiome composition, and dietary history shape host–microbiome states. The entire resource is available online as an RShiny app.
 
 ## Repository Layout
 
